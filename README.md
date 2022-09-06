@@ -11,7 +11,7 @@
 - 🐒i’m currently learning frameworks. 
   
 
-- 🎯 2022 goals : i want to learn somethings new
+- 💕 programming with love
   
 
 - 😁fun fact 'kite flying,toy collecting,drawing'  
