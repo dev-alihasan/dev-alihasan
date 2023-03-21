@@ -1,31 +1,41 @@
-# hello there, me ali hasan - 👋 🦊
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## I'm a web developer & designer. 
+###
 
-#### it's me
-<table><tr><td valign="top" width="50%">
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-- 🐱‍👤self learner  
-  
+###
 
-- 🐒i’m currently learning frameworks. 
-  
+<h2 align="left">About me</h2>
 
-- 💕 programming with love
-  
+###
 
-- 😁fun fact 'kite flying,toy collecting,drawing'  
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
+###
 
-</td><td valign="top" width="50%">
+<h2 align="left">I code with</h2>
 
+###
 
-## talk to me😋
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dev.alihasan00) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/dev_alihasan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@codewithhasan)
-  
-  ## dev forums
-  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alihasan00)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/dvp-alihasan/)
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/101947194/226695834-5fe4f85c-8877-47b9-98ee-6aed4d085385.svg" height="40" width="52" alt="scss logo"  />
+  <img src="https://user-images.githubusercontent.com/101947194/226695839-538f111d-6609-4602-8ca7-505b481cfe4b.svg" height="40" width="52" alt="html logo"  />
+  <img src="https://user-images.githubusercontent.com/101947194/226695831-25bf390c-c3e7-4263-81a4-32141fb90613.svg" height="40" width="52" alt="css logo"  />
+  <img src="https://user-images.githubusercontent.com/101947194/226695815-de0ccb38-8f25-4638-8b73-a4ef8cd78eaf.svg" height="40" width="52" alt="js logo"  />
+</div>
 
-## 💻languages & tools
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+###
+
+<h2 align="left">My coding pot</h2>  
+
+###
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/101947194/226695834-5fe4f85c-8877-47b9-98ee-6aed4d085385.svg" height="40" width="52" alt="scss logo"  />
+  <img src="https://user-images.githubusercontent.com/101947194/226695839-538f111d-6609-4602-8ca7-505b481cfe4b.svg" height="40" width="52" alt="html logo"  />
+  <img src="https://user-images.githubusercontent.com/101947194/226695831-25bf390c-c3e7-4263-81a4-32141fb90613.svg" height="40" width="52" alt="css logo"  />
+  <img src="https://user-images.githubusercontent.com/101947194/226695815-de0ccb38-8f25-4638-8b73-a4ef8cd78eaf.svg" height="40" width="52" alt="js logo"  />
+</div>
+
+###
