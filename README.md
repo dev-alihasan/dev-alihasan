@@ -27,15 +27,26 @@
 
 ###
 
-<h2 align="left">My coding pot</h2>  
+<h2 align="left">My working pot</h2>
 
 ###
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/101947194/226695834-5fe4f85c-8877-47b9-98ee-6aed4d085385.svg" height="40" width="52" alt="scss logo"  />
-  <img src="https://user-images.githubusercontent.com/101947194/226695839-538f111d-6609-4602-8ca7-505b481cfe4b.svg" height="40" width="52" alt="html logo"  />
-  <img src="https://user-images.githubusercontent.com/101947194/226695831-25bf390c-c3e7-4263-81a4-32141fb90613.svg" height="40" width="52" alt="css logo"  />
-  <img src="https://user-images.githubusercontent.com/101947194/226695815-de0ccb38-8f25-4638-8b73-a4ef8cd78eaf.svg" height="40" width="52" alt="js logo"  />
+  <img src="https://user-images.githubusercontent.com/101947194/226700762-98835e14-fcf7-4ae1-9b9d-46fce825d084.svg" height="40" width="52" alt="vim logo"  />
+  <img src="https://user-images.githubusercontent.com/101947194/226700770-06000656-efe7-47f0-9899-b1d77f64a9b9.svg" height="40" width="52" alt="vs-code logo"  />
+</div>
+
+###
+
+
+<h2 align="left">How can you catch me?</h2>   
+
+###
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/101947194/226695828-a2a6ee49-276f-4643-9fc4-8c72222c7006.svg"  />
+  <img src="https://user-images.githubusercontent.com/101947194/226695844-1ba5e9ea-9b32-446d-a10b-7ce0009105d9.svg" height="40" width="52" alt="insta logo"  />
+    <img src="https://user-images.githubusercontent.com/101947194/226695849-5ec9bf26-c912-47d9-9b1b-a9be0fe6dff4.svg" height="40" width="52" alt="facebook logo"  />
 </div>
 
 ###
