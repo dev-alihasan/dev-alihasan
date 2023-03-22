@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">i m ali hasan.</p>
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨interested in programming and software development <br>📚learning framework <br>🎲 Fun fact: i m a BBA student</p>
 
 ###
 
