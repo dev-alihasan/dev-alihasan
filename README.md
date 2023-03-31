@@ -49,7 +49,10 @@
   </a>
   
   <img src="https://user-images.githubusercontent.com/101947194/226695844-1ba5e9ea-9b32-446d-a10b-7ce0009105d9.svg" height="40" width="52" alt="insta logo"  />
+  
+   <a href="https://www.facebook.com/withalihasan" target="_blank">
     <img src="https://user-images.githubusercontent.com/101947194/226695849-5ec9bf26-c912-47d9-9b1b-a9be0fe6dff4.svg" height="40" width="52" alt="facebook logo"  />
+     </a>
 </div>
 
 ###
