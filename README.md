@@ -64,6 +64,7 @@
 </div>
 
 ###
-
+<h2 align="left">Feel free to check out my newly designed html cheat sheet</h2>   
+<a href="https://cheetbyalihasan.netlify.app/">HTML </a>
 
 
