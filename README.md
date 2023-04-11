@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">play with </h2>
 
 ###
 
@@ -23,11 +23,12 @@
   <img src="https://user-images.githubusercontent.com/101947194/226695839-538f111d-6609-4602-8ca7-505b481cfe4b.svg" height="40" width="52" alt="html logo"  />
   <img src="https://user-images.githubusercontent.com/101947194/226695831-25bf390c-c3e7-4263-81a4-32141fb90613.svg" height="40" width="52" alt="css logo"  />
   <img src="https://user-images.githubusercontent.com/101947194/226695815-de0ccb38-8f25-4638-8b73-a4ef8cd78eaf.svg" height="40" width="52" alt="js logo"  />
+    <img src="https://user-images.githubusercontent.com/101947194/231256018-c183ab71-59a7-458d-bd1d-8a49994fef26.svg" height="40" width="52" alt="js logo"  />
 </div>
 
 ###
 
-<h2 align="left">My working pot</h2>
+<h2 align="left">my working pot</h2>
 
 ###
 
