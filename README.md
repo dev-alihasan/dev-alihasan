@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">hey i m ali Hasan and i'm a BBA student with a passion for programming. I'm a proud to say that i've taught myself how to create and maintain websites, as well as implement effective search engine optimization techniques to ensure maximum visibility and traffic. I'm a constantly seeking out new skills and knowledge to help me succeed in the ever-evolving world of technology and business.</p>
 
 ###
 
