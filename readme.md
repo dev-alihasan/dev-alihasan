@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨interested in programming and software development <br>📚learning framework <br>🎲 Fun fact: i m a BBA student</p>
+<p align="left">✨interested in programming and software development <br>📚learning framework <br>🎲 Fun fact: a BBA student</p>
 
 ###
 
