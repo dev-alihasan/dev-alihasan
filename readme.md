@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">hey i m ali Hasan and i'm a BBA student with a passion for programming. I'm a proud to say that i've taught myself how to create and maintain websites, as well as implement effective search engine optimization techniques to ensure maximum visibility and traffic. I'm a constantly seeking out new skills and knowledge to help me succeed in the ever-evolving world of technology and business.</p>
+<p align="left"> i’m Ali Hasan, a BBA student with a knack for programming, i’ve self-taught myself web development and SEO techniques to boost visibility and traffic. i’m always on the lookout for new skills to stay ahead in the dynamic world of technology and business.</p>
 
 ###
 
